@@ -12,4 +12,6 @@
 
 ![severityLevel_Resolved(108x108)](https://github.com/SJ-KR/static-assets/assets/62937891/cb715872-4f66-4aeb-bb39-38f3d926bf79)
 
+### pager-inhouse-logo
+<img width="256" height="256" alt="pager-icon-256" src="https://github.com/user-attachments/assets/5fc21f18-b633-4752-aedb-31c8d60de2ee" />
 
